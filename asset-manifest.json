@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/checkpoint-jsx/static/css/main.e0c27249.chunk.css",
+    "main.js": "/checkpoint-jsx/static/js/main.b25d5e46.chunk.js",
+    "main.js.map": "/checkpoint-jsx/static/js/main.b25d5e46.chunk.js.map",
+    "runtime-main.js": "/checkpoint-jsx/static/js/runtime-main.5d881666.js",
+    "runtime-main.js.map": "/checkpoint-jsx/static/js/runtime-main.5d881666.js.map",
+    "static/js/2.763b34e5.chunk.js": "/checkpoint-jsx/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/checkpoint-jsx/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/checkpoint-jsx/index.html",
+    "precache-manifest.e53e865fe2c93019818624785335d5db.js": "/checkpoint-jsx/precache-manifest.e53e865fe2c93019818624785335d5db.js",
+    "service-worker.js": "/checkpoint-jsx/service-worker.js",
+    "static/css/main.e0c27249.chunk.css.map": "/checkpoint-jsx/static/css/main.e0c27249.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/checkpoint-jsx/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/checkpoint-jsx/static/media/logo.5d5d9eef.svg",
+    "static/media/photo4.jpg": "/checkpoint-jsx/static/media/photo4.0ddd7ca2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d881666.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.e0c27249.chunk.css",
+    "static/js/main.b25d5e46.chunk.js"
+  ]
+}
